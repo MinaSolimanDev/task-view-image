@@ -14,7 +14,7 @@
 ```
 
 ### Load data
-`NOTE:`  Make sure the file json should be stored in root project
+`NOTE:`  Make sure the file json stored in the root project
 ```
     python manage.py `file_name`
 ```
